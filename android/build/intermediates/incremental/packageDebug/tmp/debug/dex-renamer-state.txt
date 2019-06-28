@@ -1,0 +1,4 @@
+#Sat May 18 10:57:01 BDT 2019
+base.0=C\:\\Users\\Ryans\\AndroidStudioProjects\\CoinMan\\android\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
